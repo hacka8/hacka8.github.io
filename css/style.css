@@ -94,7 +94,7 @@ body {
     right: 0;
     padding: 13px;
     text-transform: uppercase;
-    color: white;
+    color: black;
     border: 0;
     background-color: #fed136;
     font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
@@ -259,7 +259,7 @@ header.masthead .intro-text .intro-heading {
     height: 20px;
     margin-top: -12px;
     text-align: center;
-    color: white;
+    color: black;
 }
 
 #portfolio .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content i {
@@ -276,7 +276,7 @@ header.masthead .intro-text .intro-heading {
     margin: 0 auto;
     padding: 25px;
     text-align: center;
-    background-color: white;
+    background-color: black;
 }
 
 #portfolio .portfolio-item .portfolio-caption h4 {
@@ -454,7 +454,7 @@ header.masthead .intro-text .intro-heading {
     height: 80px;
     margin-left: 0;
     text-align: center;
-    color: white;
+    color: black;
     border: 7px solid #f1f1f1;
     border-radius: 100%;
     background-color: #fed136;
@@ -586,7 +586,7 @@ header.masthead .intro-text .intro-heading {
 .team-member img {
     width: 225px;
     height: 225px;
-    border: 7px solid white;
+    border: 7px solid black;
 }
 
 .team-member h4 {
@@ -607,7 +607,7 @@ section#contact {
 }
 
 section#contact .section-heading {
-    color: white;
+    color: black;
 }
 
 section#contact .form-group {
@@ -701,7 +701,7 @@ ul.social-buttons li a {
     -webkit-transition: all 0.3s;
     -moz-transition: all 0.3s;
     transition: all 0.3s;
-    color: white;
+    color: black;
     border-radius: 100%;
     outline: none;
     background-color: #222222;
@@ -719,7 +719,7 @@ ul.social-buttons li a:hover {
 
 .btn-primary {
     font-weight: 700;
-    color: white;
+    color: black;
     border-color: #fed136;
     background-color: #fed136;
     font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
@@ -728,13 +728,13 @@ ul.social-buttons li a:hover {
 
 .btn-primary.focus,
 .btn-primary:focus {
-    color: white;
+    color: black;
     border-color: #b48b01;
     background-color: #fec503;
 }
 
 .btn-primary:hover {
-    color: white;
+    color: black;
     border-color: #f6bf01;
     background-color: #fec503;
 }
@@ -742,7 +742,7 @@ ul.social-buttons li a:hover {
 .btn-primary.active,
 .btn-primary:active,
 .open>.btn-primary.dropdown-toggle {
-    color: white;
+    color: black;
     border-color: #f6bf01;
     background-color: #fec503;
 }
@@ -756,7 +756,7 @@ ul.social-buttons li a:hover {
 .open>.btn-primary.dropdown-toggle.focus,
 .open>.btn-primary.dropdown-toggle:focus,
 .open>.btn-primary.dropdown-toggle:hover {
-    color: white;
+    color: black;
     border-color: #b48b01;
     background-color: #dcab01;
 }
@@ -782,7 +782,7 @@ fieldset[disabled] .btn-primary:hover {
 
 .btn-primary .badge {
     color: #fed136;
-    background-color: white;
+    background-color: black;
 }
 
 .btn-xl {
@@ -790,7 +790,7 @@ fieldset[disabled] .btn-primary:hover {
     font-weight: 700;
     padding: 20px 40px;
     border-radius: 3px;
-    color: white;
+    color: black;
     border-color: #fd7523;
     background-color: #fd7523;
     font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
@@ -799,13 +799,13 @@ fieldset[disabled] .btn-primary:hover {
 
 .btn-xl.focus,
 .btn-xl:focus {
-    color: white;
+    color: black;
     border-color: #b48b01;
     background-color: #fec503;
 }
 
 .btn-xl:hover {
-    color: white;
+    color: black;
     border-color: #f78139;
     background-color: #f78139;
 }
@@ -813,7 +813,7 @@ fieldset[disabled] .btn-primary:hover {
 .btn-xl.active,
 .btn-xl:active,
 .open>.btn-xl.dropdown-toggle {
-    color: white;
+    color: black;
     border-color: #f6bf01;
     background-color: #fec503;
 }
@@ -827,7 +827,7 @@ fieldset[disabled] .btn-primary:hover {
 .open>.btn-xl.dropdown-toggle.focus,
 .open>.btn-xl.dropdown-toggle:focus,
 .open>.btn-xl.dropdown-toggle:hover {
-    color: white;
+    color: black;
     border-color: #b48b01;
     background-color: #dcab01;
 }
@@ -853,7 +853,7 @@ fieldset[disabled] .btn-xl:hover {
 
 .btn-xl .badge {
     color: #fed136;
-    background-color: white;
+    background-color: black;
 }
 
 
