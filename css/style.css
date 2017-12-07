@@ -17,7 +17,7 @@ p {
 }
 
 a {
-    color: #fed136;
+    color: #fd7523;
 }
 
 a.active,
@@ -64,12 +64,12 @@ section h3.section-subheading {
 }
 
 ::-moz-selection {
-    background: #fed136;
+    background: #fd7523;
     text-shadow: none;
 }
 
 ::selection {
-    background: #fed136;
+    background: #fd7523;
     text-shadow: none;
 }
 
@@ -82,7 +82,7 @@ img::-moz-selection {
 }
 
 body {
-    -webkit-tap-highlight-color: #fed136;
+    -webkit-tap-highlight-color: #fd7523;
 }
 
 #mainNav {
@@ -94,15 +94,15 @@ body {
     right: 0;
     padding: 13px;
     text-transform: uppercase;
-    color: black;
+    color: white;
     border: 0;
-    background-color: #fed136;
+    background-color: #fd7523;
     font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
     text-transform: uppercase;
 }
 
 #mainNav .navbar-brand {
-    color: #fed136;
+    color: #fd7523;
     font-family: 'Kaushan Script', 'Helvetica Neue', Helvetica, Arial, cursive;
 }
 
@@ -160,7 +160,7 @@ body {
 
 header.masthead {
     text-align: center;
-    color: black;
+    color: white;
     background-image: url("../img/header-2.jpg");
     background-repeat: no-repeat;
     background-attachment: scroll;
@@ -259,7 +259,7 @@ header.masthead .intro-text .intro-heading {
     height: 20px;
     margin-top: -12px;
     text-align: center;
-    color: black;
+    color: white;
 }
 
 #portfolio .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content i {
@@ -276,7 +276,7 @@ header.masthead .intro-text .intro-heading {
     margin: 0 auto;
     padding: 25px;
     text-align: center;
-    background-color: black;
+    background-color: white;
 }
 
 #portfolio .portfolio-item .portfolio-caption h4 {
@@ -454,10 +454,10 @@ header.masthead .intro-text .intro-heading {
     height: 80px;
     margin-left: 0;
     text-align: center;
-    color: black;
+    color: white;
     border: 7px solid #f1f1f1;
     border-radius: 100%;
-    background-color: #fed136;
+    background-color: #fd7523;
 }
 
 .timeline>li .timeline-image h4 {
@@ -586,7 +586,7 @@ header.masthead .intro-text .intro-heading {
 .team-member img {
     width: 225px;
     height: 225px;
-    border: 7px solid black;
+    border: 7px solid white;
 }
 
 .team-member h4 {
@@ -607,7 +607,7 @@ section#contact {
 }
 
 section#contact .section-heading {
-    color: black;
+    color: white;
 }
 
 section#contact .form-group {
@@ -628,7 +628,7 @@ section#contact .form-group textarea.form-control {
 }
 
 section#contact .form-control:focus {
-    border-color: #fed136;
+    border-color: #fd7523;
     box-shadow: none;
 }
 
@@ -701,7 +701,7 @@ ul.social-buttons li a {
     -webkit-transition: all 0.3s;
     -moz-transition: all 0.3s;
     transition: all 0.3s;
-    color: black;
+    color: white;
     border-radius: 100%;
     outline: none;
     background-color: #222222;
@@ -710,31 +710,31 @@ ul.social-buttons li a {
 ul.social-buttons li a:active,
 ul.social-buttons li a:focus,
 ul.social-buttons li a:hover {
-    background-color: #fed136;
+    background-color: #fd7523;
 }
 
 .text-primary {
-    color: #fed136 !important;
+    color: #fd7523 !important;
 }
 
 .btn-primary {
     font-weight: 700;
-    color: black;
-    border-color: #fed136;
-    background-color: #fed136;
+    color: white;
+    border-color: #fd7523;
+    background-color: #fd7523;
     font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
     text-transform: uppercase;
 }
 
 .btn-primary.focus,
 .btn-primary:focus {
-    color: black;
+    color: white;
     border-color: #b48b01;
     background-color: #fec503;
 }
 
 .btn-primary:hover {
-    color: black;
+    color: white;
     border-color: #f6bf01;
     background-color: #fec503;
 }
@@ -742,7 +742,7 @@ ul.social-buttons li a:hover {
 .btn-primary.active,
 .btn-primary:active,
 .open>.btn-primary.dropdown-toggle {
-    color: black;
+    color: white;
     border-color: #f6bf01;
     background-color: #fec503;
 }
@@ -756,7 +756,7 @@ ul.social-buttons li a:hover {
 .open>.btn-primary.dropdown-toggle.focus,
 .open>.btn-primary.dropdown-toggle:focus,
 .open>.btn-primary.dropdown-toggle:hover {
-    color: black;
+    color: white;
     border-color: #b48b01;
     background-color: #dcab01;
 }
@@ -776,13 +776,13 @@ ul.social-buttons li a:hover {
 fieldset[disabled] .btn-primary.focus,
 fieldset[disabled] .btn-primary:focus,
 fieldset[disabled] .btn-primary:hover {
-    border-color: #fed136;
-    background-color: #fed136;
+    border-color: #fd7523;
+    background-color: #fd7523;
 }
 
 .btn-primary .badge {
-    color: #fed136;
-    background-color: black;
+    color: #fd7523;
+    background-color: white;
 }
 
 .btn-xl {
@@ -790,7 +790,7 @@ fieldset[disabled] .btn-primary:hover {
     font-weight: 700;
     padding: 20px 40px;
     border-radius: 3px;
-    color: black;
+    color: white;
     border-color: #fd7523;
     background-color: #fd7523;
     font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
@@ -799,13 +799,13 @@ fieldset[disabled] .btn-primary:hover {
 
 .btn-xl.focus,
 .btn-xl:focus {
-    color: black;
+    color: white;
     border-color: #b48b01;
     background-color: #fec503;
 }
 
 .btn-xl:hover {
-    color: black;
+    color: white;
     border-color: #f78139;
     background-color: #f78139;
 }
@@ -813,7 +813,7 @@ fieldset[disabled] .btn-primary:hover {
 .btn-xl.active,
 .btn-xl:active,
 .open>.btn-xl.dropdown-toggle {
-    color: black;
+    color: white;
     border-color: #f6bf01;
     background-color: #fec503;
 }
@@ -827,7 +827,7 @@ fieldset[disabled] .btn-primary:hover {
 .open>.btn-xl.dropdown-toggle.focus,
 .open>.btn-xl.dropdown-toggle:focus,
 .open>.btn-xl.dropdown-toggle:hover {
-    color: black;
+    color: white;
     border-color: #b48b01;
     background-color: #dcab01;
 }
@@ -847,13 +847,13 @@ fieldset[disabled] .btn-primary:hover {
 fieldset[disabled] .btn-xl.focus,
 fieldset[disabled] .btn-xl:focus,
 fieldset[disabled] .btn-xl:hover {
-    border-color: #fed136;
-    background-color: #fed136;
+    border-color: #fd7523;
+    background-color: #fd7523;
 }
 
 .btn-xl .badge {
-    color: #fed136;
-    background-color: black;
+    color: #fd7523;
+    background-color: white;
 }
 
 
